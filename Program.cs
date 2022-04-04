@@ -7,4 +7,9 @@
 
            string[] newArray = Array.FindAll(array, arr => arr.Length <= 3);
 
+              PrintArray(array);
+        PrintArray(newArray);
+        
+    }
+
 
