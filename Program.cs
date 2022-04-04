@@ -12,4 +12,5 @@
         
     }
 
-
+ static void PrintArray(string[] arr) => Console.WriteLine(string.Join(" ", arr));
+}
